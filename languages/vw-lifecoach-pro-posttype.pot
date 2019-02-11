@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VW driving school Pro Posttype\n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2016-02-11 19:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: vwthemes Team <support@vwthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0.2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+
+#: index.php:20 #: index.php:21
+msgid "Courses"
+msgstr""
+
+
+#: index.php:37 #: index.php:38
+msgid "Faq"
+msgstr""
+
+#: index.php:53 #: index.php:54
+msgid "Team"
+msgstr""
+
+#: index.php:70 #: index.php:71
+msgid "Testimonials"
+msgstr""
+
+#: index.php:88
+msgid "Enter Meta"
+msgstr""
+
+#: index.php:160
+msgid "Course Duration"
+msgstr""
+
+#: index.php:168
+msgid "Discount Price"
+msgstr""
+
+#: index.php:168
+msgid "Discount Price"
+msgstr""
+
+#: index.php:176 #: index.php:184 #: index.php:192 #: index.php:200 #: index.php:208 #: index.php:2016
+msgid "Enter Meta"
+msgstr""
+
+#: index.php:224
+msgid "Details Title Here"
+msgstr""
+ 
+#: index.php:232
+msgid " Email Id"
+msgstr""
+
+#: index.php:240
+msgid " Phone No."
+msgstr""
+
+#: index.php:315
+msgid "Enter Details"
+msgstr""
+
+#: index.php:359
+msgid "Designation"
+msgstr""
+
+#: index.php:367
+msgid "Facebook URL"
+msgstr""
+
+#: index.php:375
+msgid "Twitter URL"
+msgstr""
+
+#: index.php:383
+msgid "Linkedin URL"
+msgstr""
+
+#: index.php:391
+msgid "Googleplus URL"
+msgstr""
+
+#: index.php:440
+msgid "Enter Details"
+msgstr""
+
+#: index.php:499
+msgid "Email"
+msgstr""
+
+#: index.php:507
+msgid "Phone Number"
+msgstr""
+
+#: index.php:515
+msgid "Facebook URL"
+msgstr""
+
+#: index.php:523
+msgid "Linkedin URL"
+msgstr""
+
+#: index.php:531
+msgid "Twitter URL"
+msgstr""
+
+#: index.php:539
+msgid "GooglePlus URL"
+msgstr""
+
+#: index.php:547
+msgid "Designation"
+msgstr""
+
+#: index.php:644 #: index.php:721  #: index.php:776 #: index.php:814
+msgid "Not Found"
+msgstr""
+
+#: index.php:539
+msgid "GooglePlus URL"
+msgstr""
+
+#: index.php:547
+msgid "Designation"
+msgstr""
+
+#: index.php:644
+msgid "Not Found"
+msgstr""
